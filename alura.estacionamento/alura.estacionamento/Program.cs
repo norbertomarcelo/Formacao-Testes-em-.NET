@@ -1,7 +1,5 @@
 ﻿using Alura.Estacionamento.Alura.Estacionamento.Modelos;
 using Alura.Estacionamento.Modelos;
-using System;
-using System.Collections.Generic;
 
 namespace Alura.Estacionamento
 {
